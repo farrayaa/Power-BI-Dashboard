@@ -1,4 +1,4 @@
-# Power BI Dashboard Portfolio
+# Power BI Project
 
 Welcome to my **Power BI Dashboard Portfolio**! 🚀  
 This repository contains various dashboards I've created using **Power BI**.
